@@ -2,9 +2,9 @@
   "name": "jscodes",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dbcon.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node dbcon.js"
   },
   "keywords": [],
   "author": "",
